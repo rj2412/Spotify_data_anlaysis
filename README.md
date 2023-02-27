@@ -38,4 +38,4 @@ gcloud functions deploy get_spotify_audio_features_data_to_bigquery --runtime py
 + Blog post ['Using Data to Find the Most Popular Tracks of the Summer on Spotify'](https://medium.com/@tgel0/kiki-do-you-analyze-me-using-data-to-find-the-most-popular-tracks-of-the-summer-on-spotify-67ba8ef5773c)
 + Notebook part 1: data retrieval: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataRetrieval.ipynb)
 + Notebook part 2: data exploration: [github](https://github.com/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb) | [nbviewer](http://nbviewer.jupyter.org/github/tgel0/spotify-data/blob/master/notebooks/SpotifyDataExploPopularity.ipynb)
-+ Dataset [via Kaggle](https://www.kaggle.com/tomigelo/spotify-audio-features) (latest update: April 2019)
++ Dataset [via Kaggle](https://www.kaggle.com/tomigelo/spotify-audio-features) (latest update: April 2019)# Spotify-data-analysis
